@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kegonzal/Documents/C++ Code/Data Structures/Node.h
+
+/home/kegonzal/Documents/C++ Code/Data Structures/SinglyLinkedList/SinglyLinkedList.h
+../Node.h
+/home/kegonzal/Documents/C++ Code/Data Structures/Node.h
+
+/home/kegonzal/Documents/C++ Code/Data Structures/main.cpp
+iostream
+-
+SinglyLinkedList/SinglyLinkedList.h
+/home/kegonzal/Documents/C++ Code/Data Structures/SinglyLinkedList/SinglyLinkedList.h
+
